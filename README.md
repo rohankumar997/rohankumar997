@@ -3,9 +3,9 @@
 Here is some of the basic info:
 
 - 🔭 I’m currently working on ... Python, Shell Script, JavaFX, Sql ,C++
-- 🌱 I’m currently learning ... Java Web applications ,Scala ,Rust
+- 🌱 I’m currently learning ... Java Web applications ,Scala ,Rust ,JavaScript
 - 👯 I’m looking to collaborate on ... Java Desktop Applications
-- 🤔 I’m looking for help with ... Rust 
+- 🤔 I’m looking for help with ... Rust
 - 💬 Ask me about ... Anything
 - 📫 How to reach me ... rohan.rohankumar.kumar51@gmail.com / +91-7093123447
 - ⚡ Fun fact: ... The Best is yet to come..!
