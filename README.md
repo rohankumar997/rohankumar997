@@ -20,11 +20,32 @@ Here are some ideas to get you started:
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>	
+<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>	
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>	
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>	
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>	
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>	
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"></code>	
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/index.html></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>	
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/opensource/opensource-ar21.svg></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></code>
@@ -36,12 +57,11 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+
 	
 	
 ## About me 
-I'm a software development engineer. I like to work with Python,C++,Java,Javascript. I love Linux Kernel based OSs such as Ubuntu,MintOS,Kali Linux,Parrot OS and CentOS.
+I'm a software development engineer. I like to work with Python,C++,Java,Javascript. I love Linux Kernel based OSs such as Ubuntu, MintOS, Kali Linux, Parrot OS and CentOS.
 I'm open-source development enthusiast.
 
 ### Interesting stats
