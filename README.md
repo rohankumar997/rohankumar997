@@ -1,7 +1,8 @@
-### Hi there 👋
+### Here is what I am working on 👋
 
 <!--
 **rohankumar997/rohankumar997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 # Rohan Kumar
 
 [![Github](https://img.shields.io/github/followers/rohankumar997?label=Follow&style=social)](https://github.com/rohankumar997)
-[![Linkedin](https://img.shields.io/badge/-Rohan%20Kumar Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-kumar-dubey-3a9a31156/)](https://www.linkedin.com/in/rohan-kumar-dubey-3a9a31156/)
+[![Linkedin](https://img.shields.io/badge/-Rohan%20Kumar Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/rohan-kumar-dubey-3a9a31156/)
 [![Mail](https://img.shields.io/badge/-rohan.rohankumar.kumar51@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rohan.rohankumar.kumar51@gmail.com)
 
 <!-- [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=rohankumar997)](https://github.com/rohankumar997) -->
@@ -60,7 +61,7 @@ Here are some ideas to get you started:
 https://www.vectorlogo.zone/logos/angular/angular-ar21.svg
 [![Github](https://img.shields.io/github/followers/rohankumar997?label=Follow&style=social)](https://github.com/rohankumar997)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=rohankumar997)](https://github.com/rohankumar997)
-[![Linkedin](https://img.shields.io/badge/-rohan%20Kumar%20Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://in.linkedin.com/in/rohan-kumar-dubey-3a9a31156)](https://in.linkedin.com/in/rohan-kumar-dubey-3a9a31156)
+[![Linkedin](https://img.shields.io/badge/-rohan%20Kumar%20Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://in.linkedin.com/in/rohan-kumar-dubey-3a9a31156)
 [![Mail](https://img.shields.io/badge/-rohan.rohankumar.kumar51@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rohan.rohankumar.kumar51@gmail.com)
 
 ## About me 
