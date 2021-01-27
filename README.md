@@ -1,6 +1,6 @@
 ### Here is what I am working on 👋
 
-Here are some ideas to get you started:
+Here is some of the basic info:
 
 - 🔭 I’m currently working on ... Python, Shell Script, JavaFX, Sql ,C++
 - 🌱 I’m currently learning ... Java Web applications ,Scala ,Rust
@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me ... rohan.rohankumar.kumar51@gmail.com / +91-7093123447
 - ⚡ Fun fact: ... The Best is yet to come..!
-
 
 # Rohan Kumar Dubey
 
@@ -58,8 +57,6 @@ Here are some ideas to get you started:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
-	
-	
 ## About me 
 I'm a software development engineer. I like to work with Python, C++, Java, Javascript. I love Linux Kernel based OSs such as Ubuntu, MintOS, Kali Linux, Parrot OS and CentOS.
 I'm open-source development enthusiast.
