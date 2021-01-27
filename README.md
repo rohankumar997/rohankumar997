@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Python,Shell Script,JavaFX,Sql,C++
+- 🔭 I’m currently working on ... Python, Shell Script, JavaFX, Sql ,C++
 - 🌱 I’m currently learning ... Java Web applications ,Scala ,Rust
 - 👯 I’m looking to collaborate on ... Java Desktop Applications
 - 🤔 I’m looking for help with ... Rust 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 	
 	
 ## About me 
-I'm a software development engineer. I like to work with Python,C++,Java,Javascript. I love Linux Kernel based OSs such as Ubuntu, MintOS, Kali Linux, Parrot OS and CentOS.
+I'm a software development engineer. I like to work with Python, C++, Java, Javascript. I love Linux Kernel based OSs such as Ubuntu, MintOS, Kali Linux, Parrot OS and CentOS.
 I'm open-source development enthusiast.
 
 ### Interesting stats
