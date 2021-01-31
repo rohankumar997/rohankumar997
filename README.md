@@ -28,7 +28,6 @@ Here is some of the basic info:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>	
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>	
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"></code>	
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/index.html"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg"></code>
