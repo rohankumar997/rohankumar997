@@ -46,6 +46,7 @@ Here is some of the basic info:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
 <code><img height="50" src="https://img.icons8.com/color/344/notepad-plus-plus.png"></code>
+<code><img height="50" src="https://www.pnglogos.com/images/technology/ultraedit-logo.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>	
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
