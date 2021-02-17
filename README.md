@@ -19,6 +19,7 @@ Here is some of the basic info:
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
