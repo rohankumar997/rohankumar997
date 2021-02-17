@@ -25,6 +25,7 @@ Here is some of the basic info:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="50" src="https://img.icons8.com/dusk/344/scala.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>	
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>	
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>	
@@ -40,6 +41,8 @@ Here is some of the basic info:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="50" src="https://img.icons8.com/fluent/344/visual-studio-2019.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/344/teradata.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/PuTTY_icon_128px.png"></code>
+<code><img height="50" src="https://logocharts.com/wp-content/uploads/2020/07/winscp-logo-2.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
 <code><img height="50" src="https://img.icons8.com/color/344/notepad-plus-plus.png"></code>
