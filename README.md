@@ -20,12 +20,12 @@ Here is some of the basic info:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
+<code><img height="50" src="https://img.icons8.com/dusk/344/scala.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="50" src="https://img.icons8.com/dusk/344/scala.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>	
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>	
