@@ -7,14 +7,14 @@ Here is some of the basic info:
 - 👯 I’m looking to collaborate on ... Java Desktop Applications
 - 🤔 I’m looking for help with ... Rust
 - 💬 Ask me about ... Anything
-- 📫 How to reach me ... rohan.rohankumar.kumar51@gmail.com / +91-7093123447
+- 📫 How to reach me ... rohan.rohankumar.kumar51@gmail.com / +91-7093123447 -[Twitter](https://twitter.com/rohanku43485614)
 - ⚡ Fun fact: ... The Best is yet to come..!
 
 # Rohan Kumar Dubey
-
 [![Github](https://img.shields.io/github/followers/rohankumar997?label=Follow&style=social)](https://github.com/rohankumar997)
 [![Linkedin](https://img.shields.io/badge/-Rohan%20Kumar%20Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/rohan-kumar-dubey-3a9a31156/)
 [![Mail](https://img.shields.io/badge/-rohan.rohankumar.kumar51@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rohan.rohankumar.kumar51@gmail.com)
+
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
